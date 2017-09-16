@@ -6,3 +6,4 @@ http://tamlyhoctoipham.com/tang-cuong-kha-nang-tap-trung-qua-10-bai-tap-don-gian
 
 #sách
 https://github.com/sjarol/ebooks
+http://ocpj8.javastudyguide.com/ch01.html 
